@@ -1,0 +1,21 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #00001a;
+    color: mintcream;
+}
+
+.titleCenter {
+    display: flex;
+    justify-content: center;
+}
+
+.projects {
+    display: flex;
+    margin-left: 25%;
+}
+
+.aboutMe {
+    display: flex;
+    margin-left: 65%;
+    margin-top: -50px;
+}
